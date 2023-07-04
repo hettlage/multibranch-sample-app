@@ -1,3 +1,3 @@
 # multibranch-sample-app
 
-brand new content
+brand new content, now with tagging
