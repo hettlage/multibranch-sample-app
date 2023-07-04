@@ -1,3 +1,4 @@
 # multibranch-sample-app
 
-brand new content
+new content
+Indeed!
